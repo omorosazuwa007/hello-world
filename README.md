@@ -1,3 +1,6 @@
 # hello-world
 Repository on MTN 4G Modernization project
-I am a man who likes challenges. It makes me strong and gives me the right energy to thrive where others fail.
+
+MTNN modernization project comprised of roll out of 350 sites accross Nigeria
+
+PM is Omor Osazuwa
